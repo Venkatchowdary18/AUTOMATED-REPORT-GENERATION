@@ -2,9 +2,9 @@
 
 COMPANY:CODTECH IT SOLUTIONS
 
-NAME:G.
+NAME:G.venkat
 
-INTERN ID:
+INTERN ID:CT04DZ1234
 
 DOMAIN:PYTHON PROGRAMMING
 
@@ -17,7 +17,7 @@ MENTOR:NEELA SANTOSH
 ------
 **OUTPUT**:
 
-
+<img width="1302" height="785" alt="Image" src="https://github.com/user-attachments/assets/49175727-a1a0-4876-b2dd-51fe890956e5" />
 
 -----
 Automated Report Generation refers to the use of software tools, algorithms, and systems to create reports with minimal or no human intervention. These systems pull data from various sources, process it, and present it in a structured, readable format such as PDFs, dashboards, or visual presentations. This technology is widely adopted in industries like finance, healthcare, business intelligence, and marketing due to its efficiency, accuracy, and scalability.
@@ -79,6 +79,6 @@ Automated report generation is transforming how organizations make decisions by 
 
 For any questions or feedback, feel free to reach out to:
 
-
+G.VENKAT
 Company: CODTECH IT SOLUTIONS
-Email: @karunya.edu.in
+Email: gonguntlavenkat@karunya.edu.in
